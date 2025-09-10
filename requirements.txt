@@ -1,0 +1,4 @@
+pyside6
+sqlalchemy
+jinja2
+reportlab
